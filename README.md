@@ -3,7 +3,7 @@ My name is Faiza Ramzan, and I am a dedicated data scientist with a passion for 
 
 I take pride in my ability to communicate complex data findings in a clear and accessible manner, fostering understanding and collaboration across teams. Known for being responsible, meticulous, and curious, I am continually seeking opportunities to expand my data science expertise and refine my skills.
 
-Let’s connect! You can find me on LinkedIn: Faiza Ramzan.
+Let’s connect! You can find me on LinkedIn: [Faiza Ramzan](https://www.linkedin.com/in/faiza-ramzan/).
 
 
 # Skills
@@ -21,4 +21,4 @@ Let’s connect! You can find me on LinkedIn: Faiza Ramzan.
 
 Explore my repositories to see the diverse range of real-world challenges I've addressed. My projects highlight expertise in areas such as optimizing employee allocation, assessing risks, estimating product value, forecasting sales, and implementing data obfuscation techniques to safeguard sensitive client information.
 
-For a detailed overview, check out the 16 projects I completed as part of TripleTen Bootcamp.
+For a detailed overview, check out the 16 projects I completed as part of [TripleTen Bootcamp](https://tripleten.com/).
