@@ -22,3 +22,14 @@ Let’s connect! You can find me on LinkedIn: [Faiza Ramzan](https://www.linkedi
 Explore my repositories to see the diverse range of real-world challenges I've addressed. My projects highlight expertise in areas such as optimizing employee allocation, assessing risks, estimating product value, forecasting sales, and implementing data obfuscation techniques to safeguard sensitive client information.
 
 For a detailed overview, check out the 16 projects I completed as part of [TripleTen Bootcamp](https://tripleten.com/).
+
+
+
+# Education
+
+
+Certificate of Completion | Data Science | TripleTen | Jan 2025
+
+Bachelors in Science | Science | University of Punjab | May 2017 | GPA: 3.7
+
+Associate in Science | Computer Scince | Northern Virginia Community College 
